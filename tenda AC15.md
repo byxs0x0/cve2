@@ -5,7 +5,7 @@ http://192.168.159.128/goform/multimodalAdd
 
 # Vulnerability Description
 
-Tenda AC15 is a dual-band three-gigabit wireless router suitable for fiber-optic homes within 1000 megabits, supporting gigabit ports, intelligent frequency selection, parental control and other functions. 
+Tenda A15 is a dual-band three-gigabit wireless router suitable for fiber-optic homes within 1000 megabits, supporting gigabit ports, intelligent frequency selection, parental control and other functions. 
 Shenzhen Jixiang Tenda Technology Co., Ltd. AC15 has a binary vulnerability that can be exploited by attackers to cause a denial of service.
 
 # Firmware Information
